@@ -1,0 +1,10 @@
+[
+  {
+    "id": "com.redphx.better-xcloud",
+    "title": "Better XCloud",
+    "version": "5.8.5",
+    "icon": "",
+    "source": "com.redphx.better-xcloud.manifest.json",
+    "description": "Better XCloud test"
+  }
+]
