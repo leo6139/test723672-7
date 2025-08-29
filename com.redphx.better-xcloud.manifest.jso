@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "id": "com.redphx.better-xcloud",
+      "title": "Better XCloud",
+      "version": "5.8.5",
+      "rootRequired": false,
+      "pool": "main",
+      "iconUri": "",
+      "ipkUrl": "https://SEU-USUARIO.github.io/SEU-REPO/com.redphx.better-xcloud_5.8.5_all.ipk",
+      "ipkHash": {
+        "sha256": "4c1ad785b191c01c875a67242f7f918aef9c2392d05ac81cfb18db77fd674e2b"
+      },
+      "ipkSize": 88544,
+      "shortDescription": "Better XCloud test"
+    }
+  ]
+}
